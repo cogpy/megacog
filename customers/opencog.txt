@@ -1,0 +1,28 @@
+OpenCog Foundation - Artificial Intelligence Research Organization
+
+Contact: opencog@opencog.org
+Website: https://opencog.org
+GitHub: https://github.com/opencog
+Founded: 2008
+
+Key Personnel:
+- Ben Goertzel, Chief Scientist, ben@opencog.org
+- Linas Vepstas, Lead Developer, linas@opencog.org
+
+Services Used: AI/AGI Development Platform
+Subscription: Enterprise
+Company ID: OCF2008
+Member Since: 2008
+Last Login: 2023-06-20
+
+Projects:
+- OpenCog Framework
+- AtomSpace (knowledge graph database)
+- Atomese (AI knowledge representation language)
+- PLN (Probabilistic Logic Networks)
+- MOSES (Meta-Optimizing Semantic Evolutionary Search)
+
+Industry: Artificial Intelligence Research
+Location: Decentralized (Global)
+Preference: Email
+Membership Status: Active
