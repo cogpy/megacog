@@ -1,1 +1,6 @@
 partner list
+
+OpenCog Foundation
+https://opencog.org
+https://github.com/opencog
+An open-source artificial intelligence framework for AGI development
